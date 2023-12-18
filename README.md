@@ -2,6 +2,11 @@ Programa em C.
 
 Programa que le dois arquivos e pede um número inteiro N de 3 a 20.
 
+OBS: OS ARQUIVOS QUE ELE SOLICITA PRECISAM ESTAR DENTRO DA PASTA DO PROGRAMA.
+E PRECISA CONTER .TXT QUANDO FOR INFORMAR O ARQUIVO NO PROGRAMA. EX:
+Informe o nome do primeiro arquivo de texto:
+texto1.txt
+
 Apos isso o programa faz as seguintes funções:
 
 1) Gera outro arquivo de texto contendo todas as palavras (DOS DOIS ARQUIVOS) que sejam 
